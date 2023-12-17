@@ -37,6 +37,8 @@ export default function Home() {
           <Link href="/">Home</Link>
           <span className="divider">|</span>
           <Link href="/about">About</Link>
+          <span className="divider">|</span>
+          <Link href="/updates">Updates</Link>
         </div>
         <div className="viewOn">
           <Link href="https://glitch.com/edit/#!/remix/glitch-hello-react">Remix on Glitch</Link>

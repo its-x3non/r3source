@@ -1,5 +1,5 @@
 import * as React from "react";
-/* ADD IMPORTS FROM TODO ON THE NEXT LINE */
+import { Link } from "wouter";
 
 
 /**
@@ -7,9 +7,7 @@ import * as React from "react";
 * This component is attached to the /about path in router.jsx
 */
 
-export default function About() {
-  /* DECLARE STYLE AND TRIGGER FOR WIGGLE EFFECT FROM TODO ON NEXT LINE */
-  
+export default function About() {  
   return (
     <div className="page">
       <h1 className="title">
@@ -21,6 +19,7 @@ export default function About() {
         I am open to criticism as this is only my 2nd website that I’ve published publicly!
         Thank you for visiting r3source! You may visit the update logs below if you want to read the progress of the website.
       </p>
+      <h3 href="/updates">Updates</h3>
     </div>
   );
 }
