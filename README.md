@@ -5,11 +5,15 @@ r3sources is pretty much a personal project of mine that tries to collect altern
 There are a bunch of “free resources” websites out there but I would like to put my own spin to it :)
 
 ## Why is it named “r3source”?
+
 I put a 3 in my name (x3non), I put a 3 in r3sources (except the last one).
 Also I think it looks aesthetically pleasing.
 
 ## What happened to the old site?
+
 I wanted to use glitch as I'm more familiar with this site as I used this site before for another [personal project of mine that I did back in high school](https://complex-reactions.glitch.me/).
+
+You can view the old site [here](https://github.com/its-x3non/r3source-old) (Github Page)
 
 ## I built this website with Glitch :3
 
