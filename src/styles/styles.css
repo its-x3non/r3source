@@ -49,7 +49,11 @@ to this section's matching END comment to see page-specific styles.
   border-top: 4px solid #ffffff;
 }
 
-.footer a:hover {
+.footer .links a:hover {
+  background: var(--color-primary);
+}
+
+.footer .viewOn a:hover {
   background: var(--color-primary);
 }
 
