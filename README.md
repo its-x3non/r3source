@@ -8,6 +8,9 @@ There are a bunch of “free resources” websites out there but I would like to
 I put a 3 in my name (x3non), I put a 3 in r3sources (except the last one).
 Also I think it looks aesthetically pleasing.
 
+## What happened to the old site?
+I wanted to use glitch as I'm more familiar with this site as I used this site before for another [personal project of mine that I did back in high school](https://complex-reactions.glitch.me/).
+
 ## I built this website with Glitch :3
 
 [Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
